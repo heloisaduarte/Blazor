@@ -16,48 +16,48 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Projetos\dotLive02\DotLive02\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/AccessDenied.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/AccessDeniedModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWRNb2RlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ConfirmEmailChangeModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2VNb2RlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ConfirmEmailModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxNb2RlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ExternalLoginModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luTW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/Lockout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ForgotPasswordModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZE1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/LockoutModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0TW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/LoginModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbk1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/LoginWith2faModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmFNb2RlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/Logout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/LoginWithRecoveryCodeModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGVNb2RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/LogoutModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXRNb2RlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
@@ -132,24 +132,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/RegisterConfirmationModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbk1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/RegisterModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlck1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ResendEmailConfirmationModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbk1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ResetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ResetPasswordConfirmationModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uTW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
+[D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/ResetPasswordModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkTW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projetos/dotLive02/DotLive02/Server/Areas/Identity/Pages/Account/_StatusMessage.cshtml]

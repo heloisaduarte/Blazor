@@ -10,3 +10,15 @@ D:\Projetos\DotLive02\DotLive02\DotLive02\Shared\obj\Debug\net7.0\DotLive02.Shar
 D:\Projetos\DotLive02\DotLive02\DotLive02\Shared\obj\Debug\net7.0\refint\DotLive02.Shared.dll
 D:\Projetos\DotLive02\DotLive02\DotLive02\Shared\obj\Debug\net7.0\DotLive02.Shared.pdb
 D:\Projetos\DotLive02\DotLive02\DotLive02\Shared\obj\Debug\net7.0\ref\DotLive02.Shared.dll
+D:\Projetos\dotLive02\DotLive02\Shared\bin\Debug\net7.0\DotLive02.Shared.deps.json
+D:\Projetos\dotLive02\DotLive02\Shared\bin\Debug\net7.0\DotLive02.Shared.dll
+D:\Projetos\dotLive02\DotLive02\Shared\bin\Debug\net7.0\DotLive02.Shared.pdb
+D:\Projetos\dotLive02\DotLive02\Shared\obj\Debug\net7.0\DotLive02.Shared.csproj.AssemblyReference.cache
+D:\Projetos\dotLive02\DotLive02\Shared\obj\Debug\net7.0\DotLive02.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\dotLive02\DotLive02\Shared\obj\Debug\net7.0\DotLive02.Shared.AssemblyInfoInputs.cache
+D:\Projetos\dotLive02\DotLive02\Shared\obj\Debug\net7.0\DotLive02.Shared.AssemblyInfo.cs
+D:\Projetos\dotLive02\DotLive02\Shared\obj\Debug\net7.0\DotLive02.Shared.csproj.CoreCompileInputs.cache
+D:\Projetos\dotLive02\DotLive02\Shared\obj\Debug\net7.0\DotLive02.Shared.dll
+D:\Projetos\dotLive02\DotLive02\Shared\obj\Debug\net7.0\refint\DotLive02.Shared.dll
+D:\Projetos\dotLive02\DotLive02\Shared\obj\Debug\net7.0\DotLive02.Shared.pdb
+D:\Projetos\dotLive02\DotLive02\Shared\obj\Debug\net7.0\ref\DotLive02.Shared.dll

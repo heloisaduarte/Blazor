@@ -201,15 +201,15 @@
       "mscorlib.dll": "sha256-3H8zsATEgIcRSRoZhWYtgfKT5VniJvhcYxLruf8koAY=",
       "netstandard.dll": "sha256-bbx+pnJNmXZyPqAgESJnWLJsbfuAl0UflLCdl9slPYE=",
       "System.Private.CoreLib.dll": "sha256-pUYF+nr8SzfBMCLc3FM2i\/YivXJlzztdLin+aUsoqP0=",
-      "DotLive02.Shared.dll": "sha256-syx0Nv28N+Bk6Fa6neUZxdu8o1PJF3ES9dYn\/kovtaE=",
-      "DotLive02.Client.dll": "sha256-6pIUYtFuTLu4o8Kl2BtxF1wVPEbd\/LnDLYjf6VVeA8o="
+      "DotLive02.Shared.dll": "sha256-qKp5m8BX5S\/vesikLOoPhcykXgbL5xigHHA3bDh2Fvo=",
+      "DotLive02.Client.dll": "sha256-a1kXkNlppsDZP1wSYzmVs10ub83+lJ34j5c4EmInipQ="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "DotLive02.Shared.pdb": "sha256-G\/Gdf44L4Bnys5FUSAA8ckKuEUgXdxcy5tr0BSXyTqE=",
-      "DotLive02.Client.pdb": "sha256-GT45Hv+jwM10R8fAMT9ss0kSrSitTXXORkJx93Iq\/eU="
+      "DotLive02.Shared.pdb": "sha256-4J9VfK3Bnd5yA8FIR0WfMj+9mWPRY6oQy9nkkr3f3h8=",
+      "DotLive02.Client.pdb": "sha256-X9aPqtcfB7OSe9G0cHea5rGckjwDCjp+Z\/1v7RA\/eao="
     },
     "runtime": {
       "dotnet.7.0.4.jcuf91bfuc.js": "sha256-3l+4ZYRWpGMbBjNqeIqO9T\/65euaOzIvRlVX2SySvFQ=",

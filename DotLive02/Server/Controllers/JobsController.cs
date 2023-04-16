@@ -129,6 +129,7 @@ namespace DotLive02.Server.Controllers
             }
 
             var applications = await _context.JobApplications
+                .Include(ja => ja.Job)
                 .Where(j => j.UserId == userId).ToListAsync();
 
             var model = applications.Select(a =>
